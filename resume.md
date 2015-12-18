@@ -5,6 +5,8 @@ title: Resume
 
 I like to think of myself as an aspiring storyteller that combines code, design, words, interactive media to tell the story of your brand and product. [See my publications here.](/features)
 
+Download my [CV](/images/Huey_Yun_Teo_CV.pdf){:target="_blank"}
+
 ##Content Marketer, New York##
 KISI Inc, *January 2015  - Present*
 
