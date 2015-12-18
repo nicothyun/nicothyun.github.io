@@ -15,7 +15,7 @@ Something To Write Home About: Singapore Arts Festival Event in New York.
 
 ##Poetry##
 
-FULL OF CROW /\
+FULL OF CROW 
 Spring 2014
 Haiku to Hades published in Full of Crow, New York
 
