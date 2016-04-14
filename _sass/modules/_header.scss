@@ -23,9 +23,9 @@ Header
 		}
 
 		.site-title {
-			color: $color-white;
+			color: $color-black;
 			border: 0;
-			font-size: 1.4em;
+			font-size: 1.8em;
 			@extend %transition-2;
 			text-decoration: none !important;
 
@@ -48,9 +48,11 @@ Header
 				margin-right: ($gutter / 1.5);
 				@extend %transition-0;
 
-				&:link,
+				&:link,{
+						color: $color-primary;
+					}
 				&:visited {
-					color: $color-main-text-light;
+					color:  $color-primary;
 				}
 
 				@media (min-width: $screen-md) {

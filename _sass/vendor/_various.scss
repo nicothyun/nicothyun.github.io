@@ -43,3 +43,41 @@ Disqus
 	padding-top: 10%;
 	border-top: 1px solid #eee;
 }
+
+  /* --------------------------------
+
+Animated Buttons
+
+  -------------------------------- */
+
+  .btn {
+    background: none;
+    color: $color-primary;
+    border: 2px solid;
+    border-bottom-width: 4px;
+    font: inherit;
+    font-size: 0.9em;
+    letter-spacing: inherit;
+    margin: 0.3em;
+    padding: 0.2em 1.1em;
+    text-transform: inherit;
+    -webkit-transition: color 1s;
+    transition: color 1s;
+}
+
+.btn-nav {
+
+  &:hover {
+    animation: blinds 0.75s linear forwards;
+    background: linear-gradient(0deg, $color-primary 25%, transparent 25%) 0 0/0.9em 0.7em,
+    linear-gradient(0deg, $color-primary-light 50%, transparent 70%) 0 0/4em 2em;
+}
+
+@keyframes blinds {
+  100% {
+    background-position: 0 0, 0 -3em;
+    background-size: 0 0, 1em 6em;
+  }
+}
+
+}

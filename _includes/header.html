@@ -5,16 +5,17 @@
 	<nav>
 		<div class="grid">
 			<div class="grid__col grid__col--8-of-8"><div class="headerlogo">
-				<a class="site-title" href="{{ site.baseurl }}/">{{ site.title }}</a>
+			<div class="btn-nav">	<a class="site-title" href="{{ site.baseurl }}/">{{ site.title }}</a></div>
 			</div></div>
-			<div class="grid__col grid__col--4-of-8">
+			<div class="grid__col grid__col--5-of-8">
 				{% capture location %}{{ page.url | remove_first:'/' | split:'/' | first }}{% endcapture %}
-				<ul class="list-inline">
-					<li><a {% if location == '' %}class="active" {% endif %} href="{{ site.baseurl }}/">About</a></li>
-					<li><a {% if location == 'resume' %}class="active" {% endif %} {% if location == 'project' %}class="active" {% endif %} href="{{ site.baseurl }}/resume">Resume</a></li>
-          <li><a {% if location == 'projects' %}class="active" {% endif %} {% if location == 'project' %}class="active" {% endif %} href="{{ site.baseurl }}/projects">Projects</a></li>
-					<li><a {% if location == 'blog' %}class="active" {% endif %}href="{{ site.baseurl }}/blog">Blog</a></li>
-				</ul>
+<ul class="list-inline">
+         <li><button class="btn btn-nav"><a {% if location == '' %}class="active" {% endif %} href="{{ site.baseurl }}/">About</a></button></li>
+          <li><button class="btn btn-nav"><a {% if location == 'resume' %}class="active" {% endif %} {% if location == 'project' %}class="active" {% endif %} href="{{ site.baseurl }}/resume">Resume</a></button></li>
+          <li><button class="btn btn-nav"><a {% if location == 'projects' %}class="active" {% endif %} {% if location == 'project' %}class="active" {% endif %} href="{{ site.baseurl }}/projects">Projects</a></button></li>
+          <li><button class="btn btn-nav"><a {% if location == 'blog' %}class="active" {% endif %}href="{{ site.baseurl }}/blog">Blog</a></button></li>
+        </ul>
+
 			</div>
 		</div>
 	</nav>
