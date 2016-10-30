@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-**Huey Yun Teo** hails from the sunny island of Singapore, and presently works as a Marketing Strategiest for Xfers.
+**Huey Yun Teo** hails from the sunny island of Singapore, and presently works as a Marketing Executive for Xfers.
 
 <figure>
 <img src="/images/huey-yun-teo-resume.jpg" class="imgbleed">
