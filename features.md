@@ -2,7 +2,7 @@
 layout: page
 title: Features
 ---
-##Non-Fiction & Events##
+##Non-Fiction & Events
 
 ARTITUDE
 August 2013
@@ -13,9 +13,9 @@ September 2015
 Something To Write Home About: Singapore Arts Festival Event in New York.
 
 
-##Poetry##
+##Poetry
 
-FULL OF CROW 
+FULL OF CROW
 Spring 2014
 Haiku to Hades published in Full of Crow, New York
 
