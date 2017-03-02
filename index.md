@@ -10,7 +10,7 @@ title: About
 <figcaption>After the dreadful NYC winter, I got toasted in the Philadelphia sun. </figcaption>
 </figure>
 
-I like to think of myself as an aspiring storyteller that combines **code, design, words, interactive media** to tell the story of your brand and product. [See my publications here.](/features) And download my [resume here.](/images/Huey_Yun_Teo_CV.pdf){:target="_blank"}
+I like to think of myself as an aspiring storyteller that combines **code, design, words, interactive media** to tell the story of your brand and product. [See my publications here.](/features) And download my [resume here.](/url){:target="_blank"}
 
 What I love: soccer, cats, strategy games and old films.
 
