@@ -5,12 +5,7 @@ title: About
 
 **Huey Yun Teo** hails from the sunny island of Singapore, and presently works as a Marketing Executive for Xfers.
 
-<figure>
-<img src="/images/huey-yun-teo-resume.jpg" class="imgbleed">
-<figcaption>After the dreadful NYC winter, I got toasted in the Philadelphia sun. </figcaption>
-</figure>
-
-I like to think of myself as an aspiring storyteller that combines **code, design, words, interactive media** to tell the story of your brand and product. [See my publications here.](/features) And download my [resume here.](/url){:target="_blank"}
+I like to think of myself as an aspiring storyteller that combines **code, design, words, interactive media** to tell the story of your brand and product. [See my publications here.](/features)
 
 What I love: soccer, cats, strategy games and old films.
 
