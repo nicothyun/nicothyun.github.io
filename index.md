@@ -3,9 +3,13 @@ layout: page
 title: About
 ---
 
-**Huey Yun Teo** hails from the sunny island of Singapore.
+**Huey Yun** hails from the sunny island of Singapore.
 
-I like to think of myself as an aspiring storyteller that combines **code, design, words, interactive media** to tell the story of your brand and product. [See my publications here.](/features)
+![caveat: 2015 HY]({{ site.url }}/images/huey-yun-teo-resume.jpg)
+
+I am a [growth marketer](http://sg.linkedin.com/in/hueyyunteo "Huey Yun on Linkedin"){:target="_blank"}. I dipped my toes in arts, crypto, payments & e-commerce industries. Throughout the years, I picked up a variety of experiences by helping startups and brands find product-market fit, growing their users from 0 to 1 to scaling hyper-growth from 1 to 10x.
+
+At the fundamentals, I think great marketing tells a cohesive narrative and story. Hence, I like to think of myself as an aspiring storyteller that combines **code, design, words, data, interactive media** to tell the story of your brand and product. [See my publications & content archive here.](https://nicothyun.notion.site/d04209c98f0148c4b59dc4e85bee9321s)
 
 What I love: sports, cats, oceans, strategy games and old films.
 
