@@ -27,7 +27,7 @@ Header
 			font-family: $font-name-c, sans-serif;
 			font-weight: 900;
 			border: 0;
-			font-size: 1.8em;
+			font-size: 1.9em;
 			@extend %transition-2;
 			text-decoration: none !important;
 
@@ -38,7 +38,7 @@ Header
 			}
 
 			&:hover {
-				color: $color-main-text !important;
+				color: $color-white !important;
 			}
 		}
 

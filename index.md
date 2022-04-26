@@ -11,8 +11,8 @@ I am a [growth marketer](http://sg.linkedin.com/in/hueyyunteo "Huey Yun on Linke
 
 At the fundamentals, I think great marketing tells a cohesive narrative and story. Hence, I like to think of myself as an aspiring storyteller that combines **code, design, words, data, interactive media** to tell the story of your brand and product. [See my publications & content archive here.](https://nicothyun.notion.site/hy-s-www-content-portfolio-archives-d04209c98f0148c4b59dc4e85bee9321)
 
-What I love: sports, cats, oceans, strategy games and old films.
+What I love: sports, cats, oceans, strategy games and old films. I played competitive football/soccer through my high school to varsity years. Four years from post-graduation, I picked up touch rugby and played competitively during the summer & winter leagues before COVID-19 happened.  
 
-I live on the philosophy of action, where I believe [knowledge, learned through books or texts](https://en.wikipedia.org/wiki/Constructivism_(philosophy_of_education)){:target="_blank"} are best accompanied by [action and experience]({{ site.baseurl }}/blog/2015/11/28/travel/).
+I live on the philosophy of action, where I believe [knowledge, learned through books or texts](https://en.wikipedia.org/wiki/Constructivism_(philosophy_of_education)){:target="_blank"} are best accompanied by [action and experience]({{ site.baseurl }}/blog/2015/11/28/travel/). In my free time, I like playing strategy games and surfing the net absorbing useless history and mythology facts.
 
 Find me on [Twitter](http://twitter.com/nicothyun "Huey Yun on Twitter"){:target="_blank"}, [Linkedin](http://sg.linkedin.com/in/hueyyunteo "Huey Yun on Linkedin"){:target="_blank"} or ping me at nico.thyun@gmail.com.
