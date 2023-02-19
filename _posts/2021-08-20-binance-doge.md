@@ -5,7 +5,7 @@ category:   project
 title:      Binance - Who Let The Dogs Out
 headline:   I proposed a NFT Doggo trading activation
 date:       2021-08-20
-preview:    /images/trade-fiat.jpg
+preview:    /images/bnb-doge-thumb.png
 ---
 
 In 2021, Binance and crypto saw its mythical peak (thanks to Elon Musk's $BTC & $DOGE tweets!) and for the next few months, it was a blur and whirlwind of trading competitions and activation campaigns. To break the monotony of the humdrum $50,000 (in BUSD) trading activities, a duo of (rogue) marketers worked around the boundaries of its internal marketing SOPs to propose and execute an activation campaign humorously targeted at dog and meme-coins traders.
@@ -14,7 +14,7 @@ Within 2-3 weeks,  we created a [SHIB landing page](https://www.binance.com/en/h
 
 <figure>
 <img src="/images/bnb-doge.png" class="imgbleed">
-<figcaption>Top traders were rewarded with BUSD prize pools and limited editions Mona Lisa, Starry Nights & Dog with Pearl Earrings NFTs. </figcaption>
+<figcaption>Top traders were rewarded with BUSD prize pools and limited editions Mona Lisa, Starry Nights & Dog with Pearl Earrings NFTs.</figcaption>
 </figure>
 
 <figure>
