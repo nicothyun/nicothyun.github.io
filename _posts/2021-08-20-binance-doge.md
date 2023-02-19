@@ -2,7 +2,7 @@
 layout:     project
 category:   project
 
-title:      Who Let The Dogs Out
+title:      Binance - Who Let The Dogs Out
 headline:   I proposed a NFT Doggo trading activation
 date:       2021-08-20
 preview:    /images/trade-fiat.jpg
