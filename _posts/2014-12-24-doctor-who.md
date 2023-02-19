@@ -1,6 +1,6 @@
 ---
 layout:     project
-category:   project
+category:   personal
 
 title:      Doctor Who Poker Cards
 headline:   A personal pet project to glorify my love for Doctor Who
