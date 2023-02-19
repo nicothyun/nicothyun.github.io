@@ -22,4 +22,4 @@ Within 2-3 weeks,  we created a [SHIB landing page](https://www.binance.com/en/h
 <figcaption>Each NFTs were written with an accompanying description.</figcaption>
 </figure>
 
-The campaign resulted in an xxx% uplift in trading volume, 20K participants and a good amount of engagement from the international community. Interestingly, we found Russians users had an affinity for it.
+The campaign resulted in an xx% uplift in participants' trading volume, 20K participants and a good amount of engagement from the international community. Interestingly, we found Russians users had an affinity for it.
