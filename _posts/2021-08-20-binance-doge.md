@@ -14,9 +14,12 @@ Within 2-3 weeks,  we created a [SHIB landing page](https://www.binance.com/en/h
 
 <figure>
 <img src="/images/bnb-doge.png" class="imgbleed">
-<figcaption>Top traders were rewarded with BUSD prize pools and limited editions Mona Lisa, Starry Nights & Dog with Pearl Earrings NFTs. Each NFTs were written with an accompanying description.</figcaption>
+<figcaption>Top traders were rewarded with BUSD prize pools and limited editions Mona Lisa, Starry Nights & Dog with Pearl Earrings NFTs.</figcaption>
 </figure>
 
-![Starry Night Doggo]({{ site.url }}/images/starry-nights-doggo.jpg)
+<figure>
+<img src="/images/starry-nights-doggo.png" class="imgbleed">
+<figcaption>Each NFTs were written with an accompanying description.</figcaption>
+</figure>
 
 The campaign resulted in an xx% uplift in participants' trading volume, 20K participants and a good amount of engagement from the international community. Interestingly, we found Russians users had an affinity for it.
