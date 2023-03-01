@@ -1,5 +1,5 @@
 ---
-layout:     project
+layout:     personal
 category:   personal
 
 title:      Doctor Who Poker Cards
