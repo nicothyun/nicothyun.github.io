@@ -2,19 +2,18 @@
 layout: page
 title: Games
 ---
-# Games
-
 hi, as my foray into web2 & web3 gaming, this will be a repository and learning ground for my endeavors into web2 & web3 gaming.
 
-**LEARNING+DOING**
+# LEARNING+DOING
+
 wip (tbu)
 
-**CURRENTLY PLAYING**
+# CURRENTLY PLAYING
 
-1. The Sims 4 & expansions - my comfort game. i played the sims franchise for more than a decade now and i still remember the schooling days where i had a notebook with the different worlds --- their individual lore, character traits & the story progression.  i once remembered a reddit user said i was mad for drawing out the worlds and keeping tab of each stories.
-2. Teamfight Tactics. also love watching all the sims lore.
+- **The Sims 4 & expansions** is my comfort game. I played the sims franchise for more than a decade now and i still remember the schooling days where i had a notebook with the different worlds --- their individual lore, character traits & the story progression.  i once remembered a reddit user said i was mad for drawing out the worlds and keeping tab of each stories.
+- Teamfight Tactics.
 
-**PLAYED** 🎮
+#PLAYED 🎮
 
 - **Tabletop:** Avalon, Secret Hitler, Codenames
 - **Card games:** Hearthstone, Gods Unchained, Coup
