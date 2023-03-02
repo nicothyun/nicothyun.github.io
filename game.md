@@ -10,10 +10,10 @@ wip (tbu)
 
 # CURRENTLY PLAYING
 
-- **The Sims 4 & expansions** is my comfort game. I played the sims franchise for more than a decade now and i still remember the schooling days where i had a notebook with the different worlds --- their individual lore, character traits & the story progression.  i once remembered a reddit user said i was mad for drawing out the worlds and keeping tab of each stories.
+- **The Sims 4 & expansions** is my comfort game. I played the sims franchise for more than a decade now and I still remember my schooling days where I had a notebook with the different worlds --- their individual lore, character traits & the story progression.  I once remembered a reddit user clamoring and calling out my OCD for drawing out the worlds and keeping tab of each stories.
 - Teamfight Tactics.
 
-#PLAYED 🎮
+# PLAYED 🎮
 
 - **Tabletop:** Avalon, Secret Hitler, Codenames
 - **Card games:** Hearthstone, Gods Unchained, Coup
