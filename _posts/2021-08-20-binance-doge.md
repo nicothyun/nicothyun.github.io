@@ -13,7 +13,7 @@ In 2021, Binance and crypto saw its mythical peak (thanks to Elon Musk's $BTC & 
 Within 2-3 weeks,  we created a [SHIB landing page](https://www.binance.com/en/how-to-buy/shiba-inu) which ended up ranking no. 1 on SERPs for 'buy shib', a tongue in cheek activation competition to celebrate National Dog Day (August 26) and accompanying $SHIB and $DOGE themed classic paintings NFTs. Check out [Who Let The Dogs Out - Trade Fiat, Win Dog NFTs](https://www.binance.com/en/support/announcement/who-let-the-dogs-out-trade-fiat-win-dog-nfts-up-to-50-000-in-doge-shib-ce634feec8da40df8af915dacdac6f7e)
 
 <figure>
-<img src="/images/bnb/starry-nights-doggo.jpg" width="40% class="imgbleed">
+<img src="/images/bnb/starry-nights-doggo.jpg" width="450" class="imgbleed">
 <figcaption>Top traders were rewarded with BUSD prize pools and limited editions Mona Lisa, Starry Nights & Dog with Pearl Earrings NFTs.</figcaption>
 </figure>
 
