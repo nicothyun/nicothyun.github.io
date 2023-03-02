@@ -2,9 +2,9 @@
 layout: page
 title: Games
 ---
-hi, as my foray into web2 & web3 gaming, this will be a repository and learning ground for my endeavors into web2 & web3 gaming.
+hi,  this will be a foray, attempt at repository and learning ground for my endeavors into web2 & web3 gaming.
 
-# LEARNING+DOING
+# LEARNIN & DOING
 
 wip (tbu)
 
