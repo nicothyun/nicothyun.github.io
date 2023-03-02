@@ -4,10 +4,10 @@ title: Games
 ---
 # Games
 
-hi, as my foray into web2 & web3 gaming, this will be a repository and learning ground for my endeavours into web2 & web3 gaming.
+hi, as my foray into web2 & web3 gaming, this will be a repository and learning ground for my endeavors into web2 & web3 gaming.
 
 **LEARNING+DOING**
-game design course
+wip (tbu)
 
 **CURRENTLY PLAYING**
 
