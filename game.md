@@ -16,12 +16,12 @@ wip (tbu)
 # PLAYED 🎮 
 
 - **Tabletop:** Avalon, Secret Hitler, Codenames
-- **Card games:** Hearthstone, Gods Unchained, Teamfight Tactics, Coup
+- **Card games:** Hearthstone, Gods Unchained, Legends of Runterra, Coup
 - **Life/RPG simulation:** The Sims 2 (+expansions), The Sims 3 (+expansions), The Sims 4 (+expansions), Stardew Valley
 - **RTS**: Age of Empires
 - **Shooters:** Overwatch, Gunbound
 - **4X Strategy**: Civilization V, Civilization VI (+expansions)
-- **Generic Strategy**: Chess, Go
+- **Generic Strategy**: Chess, Go, Teamfight Tactics
 - **Action Adventure:** Legend of Zelda: Breath of Wild, Legend of Zelda: Oracle of Seasons, Pokemon Emerald, Pokemon Diamond, Life is Strange, The Walking Dead, Don't Starve: Shipwrecked, Don't Starve Together, Hamtaro: Ham Ham Heartbreak
 - **MMORPGs:** MapleStory
 - **Puzzle:** Tetris, Paper Please
