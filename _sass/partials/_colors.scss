@@ -13,4 +13,4 @@ $color-red:					#5b1ee1;
 
 $color-link:				$color-primary;
 
-$color-background:			$color-white;
+$color-background:			lighten($color-primary-light, 10%);
