@@ -1,6 +1,6 @@
 ---
 layout:     project
-category:   project
+category:   work
 
 title:      KISI Videos
 headline:   Edit and produce KISI product and marketing videos

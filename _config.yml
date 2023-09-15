@@ -5,7 +5,7 @@ url: "http://nicothyun.github.io" # the base hostname & protocol for your site
 description: Hi I am Nicole HY and I'm a marketer.
 title: "Nicole Teo, Marketing & Strategy"
 
-gems:
+plugins:
   - octopress-autoprefixer
 
 tags:

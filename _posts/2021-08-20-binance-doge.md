@@ -1,6 +1,6 @@
 ---
 layout:     project
-category:   project
+category:   work
 
 title:      Binance - Who Let The Dogs Out
 headline:   I proposed a NFT Doggo trading activation
