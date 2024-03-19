@@ -7,8 +7,8 @@ headline:   I proposed a NFT Doggo trading activation
 date:       2021-08-20
 preview:    /images/bnb/bnb-doge-thumb.png
 ---
-*Industry*: Cryptocurrency 
-*Target Audience*: Retail Traders, Memecoin Traders, NFT Enthusiasts 
+*Industry*: Cryptocurrency <br>
+*Target Audience*: Retail Traders, Memecoin Traders, NFT Enthusiasts <br>
 *Timeline*: 2-3 weeks during August 2021 
 
 ## Background 
