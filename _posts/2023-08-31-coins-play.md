@@ -1,0 +1,47 @@
+---
+layout:     project
+category:   work
+
+title:      Coins.ph / Onboarding Filipinos to Crypto Gaming
+headline:   I introduced Coins Play as an educational storytelling initiative aimed at educating Filipino users and introducing them to mobile crypto gaming via Coins Arcade.
+date:       2022-12-25
+preview: /images/Coins-Arcade_Blog-Banner.jpg
+---
+
+**Industry**: Cryptocurrency, Onchain Gaming
+**Target Audience**: Traditional Mobile Gamers in Philippines, Coins Wallet users 
+**Timeline**: 3 months from October 2022 to January 2023. 
+
+## Background
+
+In the Axie-crazed period of 2021’s Play to Earn era, most web3 gamers purchase NFTs in order to earn gaming tokens. However, the numerous crypto market crashes in 2022 saw Filipino Axie farmers getting badly hit as they watched their NFT investments rapidly decline in value. 
+
+I introduced Coins Play as an educational storytelling initiative aimed at educating Filipino users and introducing them to mobile crypto gaming. The ultimate objectives are to onboard them onto Coins Arcade and to activate them into creating a Gaming Wallet (Web3 MPC Wallet).
+
+## User Flow
+
+As a Free to Play onchain game aggregator, Coins Arcade has been developed to allow gamers to enjoy games within the Coins.ph app without having to invest their own capital in in-game NFT assets.
+
+Through Coins Arcade, users play casual onchain games on the app. They are activated to create a Web3 wallet, where they can eventually convert their in-game tokens back to PHP fiat currency.
+
+## Role 
+
+With a team under my helm, I led Coins Play as part of the branding and marketing strategy to educate Filipino mobile gamers on blockchain and crypto concepts and to activate them into playing Coins Arcade. We partnered with various web3 gaming projects such as Genopets, Gala Games, Enjin to roll out a calendar of gaming user education and activation campaigns, AMAs, video playthroughs and [content pieces](https://coins.ph/blog/tag/coins-plays/) via 360 marketing channels. We tapped Filipino gaming KOLs to generate hype and encouraged UGC content from the community. 
+
+<iframe width="660" height="355" src="https://youtube.com/playlist?list=PLZyCPl978nY5PXmioF1OEkZRoAoANz-st&feature=shared”  frameborder="0" allowfullscreen></iframe>
+
+Worked cross-functionally across the Product, Business Development and Wallet Operations team to manage the product marketing schedule for the launch of Coins Arcade.  
+
+## Results
+
+1. D1 of Coins Arcade launch achieved 1,200 DAU playing games on Coins Arcade. 
+
+2. D30 of launch, 22,172 new web3 wallets were created. 
+
+## Skills Utilised
+- Team Management
+- Content Strategy
+- Social Media Marketing
+- Lifecycle Marketing 
+- Product Marketing 
+- Marketing Partnerships
