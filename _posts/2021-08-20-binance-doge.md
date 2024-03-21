@@ -21,7 +21,7 @@ Check out [Who Let The Dogs Out - Trade Fiat, Win Dog NFTs](https://www.binance.
 I led the project from ideation, marketing execution, cross-team collaboration to reward distribution and post-campaign ROI analysis. Inspired by the upcoming National Dog Day (August 26), I was propelled to craft and propose a tongue in cheek activation competition and its distribution strategy to ride on the 2021 summer trend of NFT and meme coin traders. Reaching out to the NFT marketing POC, I proposed to create accompanying dog-themed classic painting NFTs and coordinated marketing distribution help across SEO, Design, Communication, Local Marketing and Social Media team. 
 
 <figure>
-<img src="/images/bnb/starry-nights-doggo.jpg" width="200" class="imgbleed">
+<img src="/images/bnb/starry-nights-doggo.jpg" width="150" class="imgbleed">
 <figcaption>Top traders were rewarded with BUSD prize pools and limited editions Mona Lisa, Starry Nights & Dog with Pearl Earrings NFTs.</figcaption>
 </figure>
 

@@ -8,9 +8,9 @@ date:       2022-12-25
 preview: /images/Coins-Arcade_Blog-Banner.jpg
 ---
 
-**Industry**: Cryptocurrency, Onchain Gaming
-**Target Audience**: Traditional Mobile Gamers in Philippines, Coins Wallet users 
-**Timeline**: 3 months from October 2022 to January 2023. 
+**Industry**: Cryptocurrency, Onchain Gaming<br>
+**Target Audience**: Traditional Mobile Gamers in Philippines, Coins Wallet users <br>
+**Timeline**: 3 months from October 2022 to January 2023. <br>
 
 ## Background
 
@@ -20,15 +20,23 @@ I introduced Coins Play as an educational storytelling initiative aimed at educa
 
 ## User Flow
 
-As a Free to Play onchain game aggregator, Coins Arcade has been developed to allow gamers to enjoy games within the Coins.ph app without having to invest their own capital in in-game NFT assets.
+<figure>
+<img src="/images/Coins Play User Flow.jpg" width="300">Rough sketch of how we're guiding users</figcaption>
+</figure>
+
+Coins Arcade allow gamers to enjoy games within the Coins.ph app without having to invest their own capital in gaming NFT assets.
 
 Through Coins Arcade, users play casual onchain games on the app. They are activated to create a Web3 wallet, where they can eventually convert their in-game tokens back to PHP fiat currency.
 
 ## Role 
 
+<figure>
+<img src="/images/coins townstar gala.png" width="300">Coins Play Town Star AMA & Video Playthrough</figcaption>
+</figure>
+
 With a team under my helm, I led Coins Play as part of the branding and marketing strategy to educate Filipino mobile gamers on blockchain and crypto concepts and to activate them into playing Coins Arcade. We partnered with various web3 gaming projects such as Genopets, Gala Games, Enjin to roll out a calendar of gaming user education and activation campaigns, AMAs, video playthroughs and [content pieces](https://coins.ph/blog/tag/coins-plays/) via 360 marketing channels. We tapped Filipino gaming KOLs to generate hype and encouraged UGC content from the community. 
 
-<iframe width="660" height="355" src="https://youtube.com/playlist?list=PLZyCPl978nY5PXmioF1OEkZRoAoANz-st&feature=shared”  frameborder="0" allowfullscreen></iframe>
+<iframe width="660" height="355" src="https://youtu.be/rdwzS4LPZ-U?feature=shared”  frameborder="0" allowfullscreen></iframe>
 
 Worked cross-functionally across the Product, Business Development and Wallet Operations team to manage the product marketing schedule for the launch of Coins Arcade.  
 
