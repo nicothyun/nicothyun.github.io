@@ -36,7 +36,7 @@ Through Coins Arcade, users play casual onchain games on the app. They are activ
 
 With a team under my helm, I led Coins Play as part of the branding and marketing strategy to educate Filipino mobile gamers on blockchain and crypto concepts and to activate them into playing Coins Arcade. We partnered with various web3 gaming projects such as Genopets, Gala Games, Enjin to roll out a calendar of gaming user education and activation campaigns, AMAs, video playthroughs and [content pieces](https://coins.ph/blog/tag/coins-plays/) via 360 marketing channels. We tapped Filipino gaming KOLs to generate hype and encouraged UGC content from the community. 
 
-<iframe width="660" height="355" src="https://youtu.be/rdwzS4LPZ-U?feature=shared" frameborder="0" allowfullscreen></iframe> 
+<iframe width="600" height="355" src="https://www.youtube.com/embed/rdwzS4LPZ-U?si=NvvjoPWVeiEvuXKc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Worked cross-functionally across the Product, Business Development and Wallet Operations team to manage the product marketing schedule for the launch of Coins Arcade.  
 
