@@ -26,11 +26,11 @@ I led the project from ideation, marketing execution, cross-team collaboration t
 </figure>
 
 ## Key Results
-Campaign resulted in an xx% uplift in participants’ trading volume, 20K participants and a good amount of engagement from the international community. Interestingly, we found Russians users had an affinity for it.
+1. Campaign resulted in an xx% uplift in participants’ trading volume, 20K participants and a good amount of engagement from the international community. Interestingly, we found Russians users had an affinity for it.
 
-Achieve direct and positive ROI from marketing spend to campaign’s generated trading revenue.
+2. Achieve direct and 200% positive ROI from marketing spend to campaign’s generated trading revenue.
 
-Within 2-3 weeks, our proposed SHIB landing page ended up ranking no. 1 on SERPs for ‘buy shib’. 
+3. Within 2-3 weeks, our proposed SHIB landing page ended up ranking no. 1 on SERPs for ‘buy shib’. 
 
 ## Skills Utilised
 - Product Marketing
