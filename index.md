@@ -7,7 +7,7 @@ Nicole hails from the sunny island of Singapore.
 
 ![caveat: sailormoon wave]({{ site.url }}/images/sailormoon-wave.gif)
 
-I am a [growth marketer](https://www.linkedin.com/in/nuyyuey/) "Nicole Teo on Linkedin"){:target="_blank"}. I dipped my toes in arts, crypto, payments & e-commerce industries. Throughout the years, I picked up a variety of experiences helping startups and brands find product-market fit in 0 to 1 environment to scaling hyper user growth from 1 to 100x.
+I am a [growth marketer](https://www.linkedin.com/in/nuyyuey/ "Nicole Teo on Linkedin"){:target="_blank"}. I dipped my toes in crypto, payments & e-commerce industries. Throughout the years, I picked up a variety of experiences helping startups and brands find product-market fit in 0 to 1 environment to scaling hyper user growth from 1 to 100x.
 
 At the fundamentals, great marketicng tells a story. Hence, I like to think of myself as an aspiring storyteller that combines **code, design, words, data, interative media** to tell the story of your brand and its products. [See my publications & content archive here.](https://nicothyun.notion.site/hy-s-www-content-portfolio-archives-d04209c98f0148c4b59dc4e85bee9321)
 
