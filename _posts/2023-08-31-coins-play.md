@@ -34,11 +34,15 @@ Through Coins Arcade, users play casual onchain games on the app. They are activ
 <img src="/images/coins townstar gala.png" width="300"><figcaption>Coins Play Town Star AMA & Video Playthrough</figcaption>
 </figure>
 
-With a team under my helm, I led Coins Play as part of the branding and marketing strategy to educate Filipino mobile gamers on blockchain and crypto concepts and to activate them into playing Coins Arcade. We partnered with various web3 gaming projects such as Genopets, Gala Games, Enjin to roll out a calendar of gaming user education and activation campaigns, AMAs, video playthroughs and [content pieces](https://coins.ph/blog/tag/coins-plays/) via 360 marketing channels. We tapped Filipino gaming KOLs to generate hype and encouraged UGC content from the community. 
+With a team under my helm, I led Coins Play as part of the branding and marketing strategy to educate Filipino mobile gamers on blockchain and crypto concepts and to activate them into playing Coins Arcade. 
 
 <iframe width="600" height="355" src="https://www.youtube.com/embed/rdwzS4LPZ-U?si=NvvjoPWVeiEvuXKc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-Worked cross-functionally across the Product, Business Development and Wallet Operations team to manage the product marketing schedule for the launch of Coins Arcade.  
+<iframe width="600" height="355" src="https://www.youtube.com/embed/Wx3lQxZOfbQ?si=VdZwMpRHlbPj72wO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+We partnered with various web3 gaming projects such as Genopets, Gala Games, Enjin to roll out a calendar of gaming user education and activation campaigns through a series of Play-to-Earn airdrops, AMAs, video playthroughs and content pieces via 360 marketing channels. See [#CoinsPlay](https://coins.ph/blog/tag/coins-plays/).
+
+We tapped Filipino gaming KOLs to generate hype and encouraged UGC content from the community. Worked cross-functionally across the Product, Business Development and Wallet Operations team to manage the product marketing schedule for the launch of Coins Arcade.
 
 ## Results
 
