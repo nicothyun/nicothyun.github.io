@@ -5,7 +5,7 @@ category:   work
 title:      Coins.ph / Brand Narrative Shift from E-wallet to Crypto-First 
 headline:   I was tasked with shifting the branding narrative from e-wallet to positioning the brand as a crypto-first. 
 date:       2022-05-01
-preview: /images/coins.ph-app.jpg
+preview: /images/coins/coins ph app branding.png
 ---
 
 **Industry**: Cryptocurrency, Mobile Payments<br>
@@ -25,14 +25,14 @@ I was tasked with shifting the branding narrative from e-wallet to positioning t
 ## Role 
 
 <figure>
-<img src="/images/coins townstar gala.png" width="300"><figcaption>Coins Play Town Star AMA & Video Playthrough</figcaption>
+<img src="\images\coins\coins new app.png" width="350"><figcaption>Coins new app and rebranding</figcaption>
 </figure>
 
 To simplify and make crypto concepts digestible and friendly to “normies” and the majority of the e-wallet users, we position the brand voice as a friendly Filipino financially-educated peer and friend.
 
 I led the strategy, planning, and execution of the branding shift in two phases - online & IRL. 
 
-# First phase 
+### First phase 
 
 First, develop a social and community content strategy to increase its brand visibility and crypto share of voice among Filipino crypto-natives.  
 
@@ -51,17 +51,18 @@ Selected UGC and meme campaigns:
 
 3. Weekly Lunch and Learn on Discord & Telegram, where users share photos of their Filipino lunch and a new crypto fact or tidbit they learn. 
 
-# Second phase 
+### Second phase 
 
 Launched [Coins Champions](https://coins.ph/blog/discover-why-coins-champion-jp-educates-filipinos/), an ambassador program, to educate and onboard Filipinos about digital finance and introduced a series of crypto education activation events, both online and offline (i.e Crypto Free Throws at BA Finals, Crypto Campus Roadshows in De La Salle and Ateneo de Manila). 
 
-<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpbaofficial%2Fposts%2Fpfbid02GA3WUoTf8wsoqmxtbWT8AbPrRjyuYvSe68XYvHSHSRfE6kfMV5cvu4i8LJRxFEhGl&show_text=true&width=500" width="500" height="567" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpbaofficial%2Fposts%2Fpfbid02GA3WUoTf8wsoqmxtbWT8AbPrRjyuYvSe68XYvHSHSRfE6kfMV5cvu4i8LJRxFEhGl&show_text=true&width=500" width="400" height="467" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 
 Tapped into Coins Champions to rollout [Coins Crypto Night](https://coins.ph/blog/coins-coinmunity-trivia-night/) and [Trivia Nights](https://coins.ph/blog/coins-holds-first-ever-cebu-crypto-night/) to Cebu, Quezon City and Manila. 
 
-<blockquote class="tiktok-embed" cite="https://www.tiktok.com/@coinsph_official/video/7218881423179058437" data-video-id="7218881423179058437" style="max-width: 605px;min-width: 325px;" > <section> <a target="_blank" title="@coinsph_official" href="https://www.tiktok.com/@coinsph_official?refer=embed">@coinsph_official</a> We would like to extend our gratitude to those who attended the <a title="coinmunity" target="_blank" href="https://www.tiktok.com/tag/coinmunity?refer=embed">#Coinmunity</a> Event: Coins Trivia Night last Friday, March 31 🧠 Hope you enjoyed the fun &#38; facts we shared with you! &#39;Til the next one! 🎉 <a title="fyp" target="_blank" href="https://www.tiktok.com/tag/fyp?refer=embed">#fyp</a> <a title="foryou" target="_blank" href="https://www.tiktok.com/tag/foryou?refer=embed">#foryou</a> <a title="qc" target="_blank" href="https://www.tiktok.com/tag/qc?refer=embed">#qc</a> <a title="crypto" target="_blank" href="https://www.tiktok.com/tag/crypto?refer=embed">#crypto</a> <a title="coinsph" target="_blank" href="https://www.tiktok.com/tag/coinsph?refer=embed">#coinsph</a> <a title="cryptocurrency" target="_blank" href="https://www.tiktok.com/tag/cryptocurrency?refer=embed">#cryptocurrency</a> <a title="cryptok" target="_blank" href="https://www.tiktok.com/tag/cryptok?refer=embed">#cryptok</a> <a title="fypシ" target="_blank" href="https://www.tiktok.com/tag/fyp%E3%82%B7?refer=embed">#fypシ</a> <a target="_blank" title="♬ cupid twin version - ⟡ TRACYTRACKS ⟡" href="https://www.tiktok.com/music/cupid-twin-version-7204756346426755886?refer=embed">♬ cupid twin version - ⟡ TRACYTRACKS ⟡</a> </section> </blockquote> <script async src="https://www.tiktok.com/embed.js"></script>
+<P>
+<blockquote class="tiktok-embed" cite="https://www.tiktok.com/@coinsph_official/video/7218881423179058437" data-video-id="7218881423179058437" style="max-width: 250px;min-width: 130px;" > <section> <a target="_blank" title="@coinsph_official" href="https://www.tiktok.com/@coinsph_official?refer=embed">@coinsph_official</a> We would like to extend our gratitude to those who attended the <a title="coinmunity" target="_blank" href="https://www.tiktok.com/tag/coinmunity?refer=embed">#Coinmunity</a> Event: Coins Trivia Night last Friday, March 31 🧠 Hope you enjoyed the fun &#38; facts we shared with you! &#39;Til the next one! 🎉 <a title="fyp" target="_blank" href="https://www.tiktok.com/tag/fyp?refer=embed">#fyp</a> <a title="foryou" target="_blank" href="https://www.tiktok.com/tag/foryou?refer=embed">#foryou</a> <a title="qc" target="_blank" href="https://www.tiktok.com/tag/qc?refer=embed">#qc</a> <a title="crypto" target="_blank" href="https://www.tiktok.com/tag/crypto?refer=embed">#crypto</a> <a title="coinsph" target="_blank" href="https://www.tiktok.com/tag/coinsph?refer=embed">#coinsph</a> <a title="cryptocurrency" target="_blank" href="https://www.tiktok.com/tag/cryptocurrency?refer=embed">#cryptocurrency</a> <a title="cryptok" target="_blank" href="https://www.tiktok.com/tag/cryptok?refer=embed">#cryptok</a> <a title="fypシ" target="_blank" href="https://www.tiktok.com/tag/fyp%E3%82%B7?refer=embed">#fypシ</a> <a target="_blank" title="♬ cupid twin version - ⟡ TRACYTRACKS ⟡" href="https://www.tiktok.com/music/cupid-twin-version-7204756346426755886?refer=embed">♬ cupid twin version - ⟡ TRACYTRACKS ⟡</a> </section> </blockquote> <script async src="https://www.tiktok.com/embed.js"></script>
 
-<blockquote class="tiktok-embed" cite="https://www.tiktok.com/@coinsph_official/video/7205143118327434522" data-video-id="7205143118327434522" style="max-width: 605px;min-width: 325px;" > <section> <a target="_blank" title="@coinsph_official" href="https://www.tiktok.com/@coinsph_official?refer=embed">@coinsph_official</a> Salamat kaayu, Cebuano Coinmunity! 🚀 Thanks to everyone who attended our first-ever Coinmunity Meetup in the Queen City of the South 💙 We hope to see you again soon! <a title="fyp" target="_blank" href="https://www.tiktok.com/tag/fyp?refer=embed">#fyp</a> <a title="foryou" target="_blank" href="https://www.tiktok.com/tag/foryou?refer=embed">#foryou</a> <a title="cebu" target="_blank" href="https://www.tiktok.com/tag/cebu?refer=embed">#cebu</a> <a title="crypto" target="_blank" href="https://www.tiktok.com/tag/crypto?refer=embed">#crypto</a> <a title="cryptocurrency" target="_blank" href="https://www.tiktok.com/tag/cryptocurrency?refer=embed">#cryptocurrency</a> <a target="_blank" title="♬ hold u down twitdasounds - TjⓂ️" href="https://www.tiktok.com/music/hold-u-down-twitdasounds-7168986490008062762?refer=embed">♬ hold u down twitdasounds - TjⓂ️</a> </section> </blockquote> <script async src="https://www.tiktok.com/embed.js"></script>
+<blockquote class="tiktok-embed" cite="https://www.tiktok.com/@coinsph_official/video/7205143118327434522" data-video-id="7205143118327434522" style="max-width: 250pxpx;min-width: 130px;" > <section> <a target="_blank" title="@coinsph_official" href="https://www.tiktok.com/@coinsph_official?refer=embed">@coinsph_official</a> Salamat kaayu, Cebuano Coinmunity! 🚀 Thanks to everyone who attended our first-ever Coinmunity Meetup in the Queen City of the South 💙 We hope to see you again soon! <a title="fyp" target="_blank" href="https://www.tiktok.com/tag/fyp?refer=embed">#fyp</a> <a title="foryou" target="_blank" href="https://www.tiktok.com/tag/foryou?refer=embed">#foryou</a> <a title="cebu" target="_blank" href="https://www.tiktok.com/tag/cebu?refer=embed">#cebu</a> <a title="crypto" target="_blank" href="https://www.tiktok.com/tag/crypto?refer=embed">#crypto</a> <a title="cryptocurrency" target="_blank" href="https://www.tiktok.com/tag/cryptocurrency?refer=embed">#cryptocurrency</a> <a target="_blank" title="♬ hold u down twitdasounds - TjⓂ️" href="https://www.tiktok.com/music/hold-u-down-twitdasounds-7168986490008062762?refer=embed">♬ hold u down twitdasounds - TjⓂ️</a> </section> </blockquote> <script async src="https://www.tiktok.com/embed.js"></script><P>
 
 ## Results
 
