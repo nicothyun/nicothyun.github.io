@@ -42,7 +42,6 @@ Selected UGC and meme campaigns:
 
 1. [#CoinsMemeMaster](https://coins.ph/blog/promo-coins-meme-master-free-shib/) was launched to accompany the listing of $SHIB, a long time fan-requested token listing, on Coins.ph, where we saw [1,000+ SHIB meme submissions](https://twitter.com/search?q=coinsmememaster&src=typed_query) from our users in the first week. 
 
-
  <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Heres my entry💅🤍<a href="https://t.co/tqLKQLmGvx">https://t.co/tqLKQLmGvx</a> adds Shiba Inu means easy to buy and sell Shiba Inu Community 🤍<a href="https://twitter.com/coinsph?ref_src=twsrc%5Etfw">@coinsph</a> <a href="https://twitter.com/coinsph?ref_src=twsrc%5Etfw">@coinsph</a> <a href="https://twitter.com/hashtag/CoinMemeMaster?src=hash&amp;ref_src=twsrc%5Etfw">#CoinMemeMaster</a> <a href="https://t.co/rkwy3dDyTy">pic.twitter.com/rkwy3dDyTy</a></p>&mdash; Soysauce 💛 Drop (@Soysauce0114) <a href="https://twitter.com/Soysauce0114/status/1554027384244142082?ref_src=twsrc%5Etfw">August 1, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">When you love K-drama and crypto is your side-hustle 😂<br><br>Hi <a href="https://twitter.com/coinsph?ref_src=twsrc%5Etfw">@coinsph</a> 😂<a href="https://twitter.com/search?q=%24Shib&amp;src=ctag&amp;ref_src=twsrc%5Etfw">$Shib</a><a href="https://twitter.com/hashtag/CoinsMemeMaster?src=hash&amp;ref_src=twsrc%5Etfw">#CoinsMemeMaster</a> <a href="https://t.co/ihJmGt35oy">pic.twitter.com/ihJmGt35oy</a></p>&mdash; Julieee (@blueishly_) <a href="https://twitter.com/blueishly_/status/1550460857410527234?ref_src=twsrc%5Etfw">July 22, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -54,7 +53,7 @@ Selected UGC and meme campaigns:
 ### Second phase 
 
 <figure>
-<img src="\images\coins\Coins-Champion---JP-Grabador-1.png"><figcaption>JP Grabador, a Coins Champion, shares how Coins.ph helps him <a href="https://coins.ph/blog/discover-why-coins-champion-jp-educates-filipinos/">achieve his financial goals</a> and why he wants to help others learn more about digital finance and cryptocurrency.</figcaption>
+<img src="\images\coins\Coins-Champion---JP-Grabador-1.png"><figcaption>JP Grabador, a Coins Champion, sharing how Coins.ph helps him to <a href="https://coins.ph/blog/discover-why-coins-champion-jp-educates-filipinos/">achieve his financial goals</a> and why he wants to help others learn more about digital finance and cryptocurrency.</figcaption>
 </figure>
 
 Launched Coins Champions, an ambassador program, to educate and onboard Filipinos about digital finance and introduced a series of crypto education activation events, both online and offline (i.e Crypto Free Throws at BA Finals, Crypto Campus Roadshows in De La Salle and Ateneo de Manila). 
