@@ -5,7 +5,7 @@ category:   work
 title:      Coins.ph / Onboarding Filipinos to Crypto Gaming
 headline:   I introduced Coins Play as an educational storytelling initiative aimed at educating Filipino users and introducing them to mobile crypto gaming via Coins Arcade.
 date:       2022-12-25
-preview: /images/Coins-Arcade_Blog-Banner.jpg
+preview: /images/coins/Coins-Arcade_Blog-Banner.jpg
 ---
 
 **Industry**: Cryptocurrency, Onchain Gaming<br>
