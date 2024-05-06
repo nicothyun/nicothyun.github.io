@@ -11,7 +11,7 @@ preview: /images/coins/coins ph app branding.png
 **Industry**: Cryptocurrency, Mobile Payments<br>
 **Target Audience**: Coins Wallet users, Fintech users in Philippines<br>
 **Timeline**: 9 months from May 2022 to March 2023.<br> 
-
+**Teammates involved**: <A href="https://www.linkedin.com/in/natalie-teo-54807798/">Natalie</a>, <a href="https://www.linkedin.com/in/franciscoraularaneta/">Franco</a>, <a href="https://www.linkedin.com/in/jezreelmanahan/">Jez</a>, <a href="https://twitter.com/dom_nft">Dom (Intern)</a>
 
 ## Background
 
