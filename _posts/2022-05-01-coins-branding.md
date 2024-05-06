@@ -56,7 +56,7 @@ Selected UGC and meme campaigns:
 <img src="\images\coins\Coins-Champion---JP-Grabador-1.png"><figcaption>JP Grabador, a Coins Champion, sharing how Coins.ph helps him to <a href="https://coins.ph/blog/discover-why-coins-champion-jp-educates-filipinos/">achieve his financial goals</a> and why he wants to help others learn more about digital finance and cryptocurrency.</figcaption>
 </figure>
 
-Launched Coins Champions, an ambassador program, to educate and onboard Filipinos about digital finance and introduced a series of crypto education activation events, both online and offline (i.e Crypto Free Throws at BA Finals, Crypto Campus Roadshows in De La Salle and Ateneo de Manila). 
+Launched Coins Champions, an ambassador program, to educate and onboard Filipinos about digital finance and introduced a series of crypto education activation events, both online and offline (i.e Crypto Free Throws at PBA Finals, Crypto Campus Roadshows in De La Salle and Ateneo de Manila). 
 
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpbaofficial%2Fposts%2Fpfbid02GA3WUoTf8wsoqmxtbWT8AbPrRjyuYvSe68XYvHSHSRfE6kfMV5cvu4i8LJRxFEhGl&show_text=true&width=500" width="400" height="467" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 
@@ -69,9 +69,11 @@ Tapped into Coins Champions to rollout [Coins Crypto Night](https://coins.ph/blo
 
 ## Results
 
-1. Grew followers organically (without bots) from 800,000 to 960,000 in 9 months through localized memes, content strategy, & UGC engagement. 
+1. Grew followers organically (without bots) from 800,000 to 960,000 in 9 months with a limited budget of $5,000  through localized memes, content strategy, & UGC engagement. 
 
-2. Expanded brand presence of Coins.ph and increased crypto share of voice from 40% to 52% in the Philippines. 
+2. Generated at least 20K UGC content across UGC and branded campaigns 
+
+3. Expanded brand presence of Coins.ph and increased crypto share of voice from 40% to 52% in the Philippines. 
 
 ## Skills Utilised
 - Team Management

@@ -44,6 +44,8 @@ We partnered with various web3 gaming ecosystem partners such as Genopets, Gala 
 
 We tapped Filipino gaming KOLs to generate hype and encouraged UGC content from the community. Worked cross-functionally across the Product, Business Development and Wallet Operations team to manage the product marketing schedule for the launch of Coins Arcade.
 
+sdds
+
 ## Results
 
 1. D1 of Coins Arcade launch achieved 1,200 DAU playing games on Coins Arcade. 
