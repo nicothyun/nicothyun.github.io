@@ -11,6 +11,7 @@ preview: /images/coins/Coins-Arcade_Blog-Banner.jpg
 **Industry**: Cryptocurrency, Onchain Gaming<br>
 **Target Audience**: Traditional Mobile Gamers in Philippines, Coins Wallet users <br>
 **Timeline**: 3 months from October 2022 to January 2023. <br>
+**Value positioning**: Play and earn onchain games on mobile<br>
 
 ## Background
 
@@ -43,8 +44,6 @@ With a team under my helm, I led Coins Play as part of the branding and marketin
 We partnered with various web3 gaming ecosystem partners such as Genopets, Gala Games, Enjin to roll out a calendar of gaming user education and activation campaigns through a series of Play-to-Earn airdrops, AMAs, video playthroughs and content pieces via 360 marketing channels. See [#CoinsPlay](https://coins.ph/blog/tag/coins-plays/).
 
 We tapped Filipino gaming KOLs to generate hype and encouraged UGC content from the community. Worked cross-functionally across the Product, Business Development and Wallet Operations team to manage the product marketing schedule for the launch of Coins Arcade.
-
-sdds
 
 ## Results
 

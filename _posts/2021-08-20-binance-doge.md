@@ -9,7 +9,8 @@ preview:    /images/bnb/bnb-doge-thumb.png
 ---
 **Industry**: Cryptocurrency <br>
 **Target Audience**: Retail Traders, Memecoin Traders, NFT Enthusiasts <br>
-**Timeline**: 2-3 weeks during August 2021 
+**Timeline**: 2-3 weeks during August 2021<br>
+**Value proposition**:  Let the dogs out, trade dog meme coins and earn<br>
 
 ## Background 
 In 2021, Binance and crypto saw its mythical peak (thanks to Elon Musk's $BTC & $DOGE tweets!) and for the next few months, it was a blur and whirlwind of trading competitions and activation campaigns. To break the monotony of the humdrum $50,000 (in BUSD) trading activities, a duo of (rogue) [marketers](https://www.linkedin.com/in/natalie-teo-54807798/) worked around the boundaries of its internal marketing SOPs to propose and execute an activation campaign humorously targeted at dog and meme-coins traders.
