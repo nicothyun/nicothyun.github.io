@@ -11,7 +11,7 @@ preview: /images/coins/Coins-Arcade_Blog-Banner.jpg
 **Industry**: Cryptocurrency, Onchain Gaming<br>
 **Target Audience**: Traditional Mobile Gamers in Philippines, Coins Wallet users <br>
 **Timeline**: 3 months from October 2022 to January 2023. <br>
-**Value positioning**: Play and earn onchain games on mobile<br>
+**Value proposition**: Play and earn onchain games on mobile<br>
 
 ## Background
 
