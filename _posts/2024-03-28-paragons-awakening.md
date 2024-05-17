@@ -18,11 +18,15 @@ Parallel TCG is a free-to-play trading card game running on Ethereum and the Bas
 
 ## Role 
 
-<blockquote class="twitter-tweet" data-media-max-width="560"><p lang="en" dir="ltr">We’re recruiting for Paragons Awakening - The Official <a href="https://twitter.com/ParallelTCG?ref_src=twsrc%5Etfw">@ParallelTCG</a> Open Beta Tournament! ⚔️⚔️<br><br>Pit against a roster of the most competitive Parallel players to make your mark via Single-Elimination, Free Ruleset format for $10,000* in prizes.<br><br>Quarters to Finals matches will be… <a href="https://t.co/vRXjyGRXkN">pic.twitter.com/vRXjyGRXkN</a></p>&mdash; ParagonsDAO (@ParagonsDAO) <a href="https://twitter.com/ParagonsDAO/status/1770092089629368647?ref_src=twsrc%5Etfw">March 19, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 <p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=_Oh7cIqhcgqTuX9i&amp;list=PLkCF3wkA4ylBKqOjQAG4bElT6NOQBIdst" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
+
+<p><blockquote class="twitter-tweet" data-media-max-width="560"><p lang="en" dir="ltr">We’re recruiting for Paragons Awakening - The Official <a href="https://twitter.com/ParallelTCG?ref_src=twsrc%5Etfw">@ParallelTCG</a> Open Beta Tournament! ⚔️⚔️<br><br>Pit against a roster of the most competitive Parallel players to make your mark via Single-Elimination, Free Ruleset format for $10,000* in prizes.<br><br>Quarters to Finals matches will be… <a href="https://t.co/vRXjyGRXkN">pic.twitter.com/vRXjyGRXkN</a></p>&mdash; ParagonsDAO (@ParagonsDAO) <a href="https://twitter.com/ParagonsDAO/status/1770092089629368647?ref_src=twsrc%5Etfw">March 19, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+
+
 I spearheaded the brand marketing and creative direction for Paragons Awakening. My responsibilities included crafting social media captions, strategizing the social media calendar, and collaborating closely with a designer to fulfill creative and video needs. Additionally, I worked cross-functionally with the Livestreaming Operations team to broadcast a roster of elite Hearthstone players and Parallel Ambassadors. 
 
-<br> Our goal was to inspire envy and grit to propel these participants to train and compete vigorously on Parallel TCG in preparation for the tournament day. </P>
+<p>Our goal was to inspire envy and grit to propel these participants to train and compete vigorously on Parallel TCG in preparation for the tournament day. </P>
 
 <figure>
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Some Parallel action next week //<br><br>The deck testing has already begun, boy do i miss this part of competing.<br><br>If nothing else wins me over i can always go with my Gaias Call deck, always fun &amp; amazing card arts 💚 <a href="https://t.co/VM73MjFDcy">https://t.co/VM73MjFDcy</a></p>&mdash; Chris Tsako (@FenoHS) <a href="https://twitter.com/FenoHS/status/1771295480518987889?ref_src=twsrc%5Etfw">March 22, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -39,9 +43,6 @@ Over the course of a week, from March 18 to March 28, we posted a steady stream 
 There was a cap of 64 tournament participants, which was filled up by the first hour. The number of tournament participants increased to 128 players to accommodate the gamers’ demands. 
 
 Increased community fanfare from the Parallel community surrounding Paragons Awakening buzz saw Parallel whale organically contributing additional $5,000 of PRIME tokens to the sponsor pool. 
-
-<p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=_Oh7cIqhcgqTuX9i&amp;list=PLkCF3wkA4ylBKqOjQAG4bElT6NOQBIdst" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
 
 ## Skills Utilised
 - Social Media Marketing
