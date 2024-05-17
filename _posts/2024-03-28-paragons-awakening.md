@@ -5,7 +5,7 @@ category:   work
 title:      ParagonsDAO/ Paragons Awakening: Parallel Official Open Beta Tournament
 headline:   I spearheaded the brand marketing and creative direction for Paragons Awakening - Parallel First Official Open Beta Tournament to onboard traditional Hearthstone and TCG gamers (web2) to try out Free-to-Play Parallel TCG (web3). 
 date:       2024-03-28
-preview: /images/coins/Coins-Arcade_Blog-Banner.jpg
+preview: /images/paragons-awakening.png
 ---
 
 **Industry**: Cryptocurrency, Web3 Gaming<br>
