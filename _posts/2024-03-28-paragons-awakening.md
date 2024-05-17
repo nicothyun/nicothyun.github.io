@@ -2,7 +2,7 @@
 layout:     project
 category:   work
 
-title:      ParagonsDAO / Paragons Awakening - Parallel Official Open Beta Tournament
+title:      ParagonsDAO / Parallel Official Open Beta Tournament
 headline:   I spearheaded the brand marketing and creative direction for Paragons Awakening - Parallel First Official Open Beta Tournament to onboard traditional Hearthstone and TCG gamers (web2) to try out Free-to-Play Parallel TCG (web3). 
 date:       2024-03-28
 preview: /images/paragons-awakening.png
@@ -14,7 +14,7 @@ preview: /images/paragons-awakening.png
 
 ## TLDR 
 
-Parallel TCG is a free-to-play trading card game running on Ethereum and the Base Network. The focus was to position ParagonsDAO as a key partner within Parallel’s ecosystem where gamers can accumulate an onchain reputation score, eventually enabling them to lend and borrow NFT assets for free.
+Parallel TCG is a free-to-play trading card game running on Ethereum and Base Network. The focus was to position ParagonsDAO as a key partner within Parallel’s ecosystem where gamers can accumulate an onchain reputation score, eventually enabling them to lend and borrow NFT assets for free.
 
 ## Role 
 
@@ -22,7 +22,6 @@ Parallel TCG is a free-to-play trading card game running on Ethereum and the Bas
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=_Oh7cIqhcgqTuX9i&amp;list=PLkCF3wkA4ylBKqOjQAG4bElT6NOQBIdst" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
 
 <p><blockquote class="twitter-tweet" data-media-max-width="560"><p lang="en" dir="ltr">We’re recruiting for Paragons Awakening - The Official <a href="https://twitter.com/ParallelTCG?ref_src=twsrc%5Etfw">@ParallelTCG</a> Open Beta Tournament! ⚔️⚔️<br><br>Pit against a roster of the most competitive Parallel players to make your mark via Single-Elimination, Free Ruleset format for $10,000* in prizes.<br><br>Quarters to Finals matches will be… <a href="https://t.co/vRXjyGRXkN">pic.twitter.com/vRXjyGRXkN</a></p>&mdash; ParagonsDAO (@ParagonsDAO) <a href="https://twitter.com/ParagonsDAO/status/1770092089629368647?ref_src=twsrc%5Etfw">March 19, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
-
 
 I spearheaded the brand marketing and creative direction for Paragons Awakening. My responsibilities included crafting social media captions, strategizing the social media calendar, and collaborating closely with a designer to fulfill creative and video needs. Additionally, I worked cross-functionally with the Livestreaming Operations team to broadcast a roster of elite Hearthstone players and Parallel Ambassadors. 
 
