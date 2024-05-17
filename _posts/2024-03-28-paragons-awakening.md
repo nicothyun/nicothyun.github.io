@@ -20,7 +20,7 @@ Parallel TCG is a free-to-play trading card game running on Ethereum and the Bas
 
 <blockquote class="twitter-tweet" data-media-max-width="560"><p lang="en" dir="ltr">We’re recruiting for Paragons Awakening - The Official <a href="https://twitter.com/ParallelTCG?ref_src=twsrc%5Etfw">@ParallelTCG</a> Open Beta Tournament! ⚔️⚔️<br><br>Pit against a roster of the most competitive Parallel players to make your mark via Single-Elimination, Free Ruleset format for $10,000* in prizes.<br><br>Quarters to Finals matches will be… <a href="https://t.co/vRXjyGRXkN">pic.twitter.com/vRXjyGRXkN</a></p>&mdash; ParagonsDAO (@ParagonsDAO) <a href="https://twitter.com/ParagonsDAO/status/1770092089629368647?ref_src=twsrc%5Etfw">March 19, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 <p>
-I spearheaded the brand marketing and creative direction for Paragons Awakening. My responsibilities included crafting social media captions, strategizing the social media calendar, and collaborating closely with a designer to fulfill creative and video needs. Additionally, I worked cross-functionally with the Livestreaming Operations team to assemble a roster of elite Hearthstone players and Parallel Ambassadors to broadcast. 
+I spearheaded the brand marketing and creative direction for Paragons Awakening. My responsibilities included crafting social media captions, strategizing the social media calendar, and collaborating closely with a designer to fulfill creative and video needs. Additionally, I worked cross-functionally with the Livestreaming Operations team to broadcast a roster of elite Hearthstone players and Parallel Ambassadors. 
 
 <br> Our goal was to inspire envy and grit to propel these participants to train and compete vigorously on Parallel TCG in preparation for the tournament day. </P>
 
@@ -32,13 +32,13 @@ I spearheaded the brand marketing and creative direction for Paragons Awakening.
 
 ## Results
 
-Over the course of a week, from March 18 to March 28, we posted a steady stream of tournament-related content totalling <b>220,000 views</b> at a social engagement rate of 40%. Paragons Awakening hit an ATH record for Parallel TCG’s esport tournaments’ streams and views.
+Over the course of a week, from March 18 to March 28, we posted a steady stream of tournament-related content totalling <b>220,000 views</b> at a social engagement rate of 40%. Paragons Awakening hit an ATH record for Parallel esports tournaments’ streams and views.
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Earth is beckoning for YOU - the abled, the brave and the resolute - to enlist and to fight for home.<br><br>The fate of humanity will soon be in your hands. Recruitment opens tomorrow.<a href="https://twitter.com/ParallelTCG?ref_src=twsrc%5Etfw">@ParallelTCG</a> <a href="https://twitter.com/YieldGuild?ref_src=twsrc%5Etfw">@YieldGuild</a> <a href="https://twitter.com/EchelonFND?ref_src=twsrc%5Etfw">@EchelonFND</a> <a href="https://twitter.com/useteller?ref_src=twsrc%5Etfw">@useteller</a> <a href="https://t.co/ik3ImrdErc">pic.twitter.com/ik3ImrdErc</a></p>&mdash; ParagonsDAO (@ParagonsDAO) <a href="https://twitter.com/ParagonsDAO/status/1769752922932248772?ref_src=twsrc%5Etfw">March 18, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 There was a cap of 64 tournament participants, which was filled up by the first hour. The number of tournament participants increased to 128 players to accommodate the gamers’ demands. 
 
 Increased community fanfare from the Parallel community surrounding Paragons Awakening buzz saw Parallel whale organically contributing additional $5,000 of PRIME tokens to the sponsor pool. 
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Earth is beckoning for YOU - the abled, the brave and the resolute - to enlist and to fight for home.<br><br>The fate of humanity will soon be in your hands. Recruitment opens tomorrow.<a href="https://twitter.com/ParallelTCG?ref_src=twsrc%5Etfw">@ParallelTCG</a> <a href="https://twitter.com/YieldGuild?ref_src=twsrc%5Etfw">@YieldGuild</a> <a href="https://twitter.com/EchelonFND?ref_src=twsrc%5Etfw">@EchelonFND</a> <a href="https://twitter.com/useteller?ref_src=twsrc%5Etfw">@useteller</a> <a href="https://t.co/ik3ImrdErc">pic.twitter.com/ik3ImrdErc</a></p>&mdash; ParagonsDAO (@ParagonsDAO) <a href="https://twitter.com/ParagonsDAO/status/1769752922932248772?ref_src=twsrc%5Etfw">March 18, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=_Oh7cIqhcgqTuX9i&amp;list=PLkCF3wkA4ylBKqOjQAG4bElT6NOQBIdst" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
