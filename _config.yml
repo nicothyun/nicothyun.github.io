@@ -2,7 +2,7 @@
 name: Nicole Teo
 email: nico.thyun@gmail.com
 url: "http://nicothyun.github.io" # the base hostname & protocol for your site
-description: Hi I am Nicole HY and I'm a marketer.
+description: Hi I am Nicole and I'm a marketer.
 title: "Nicole Teo, Marketing & Strategy"
 
 plugins:
@@ -13,8 +13,7 @@ tags:
   - code
 
 # Social
-twitter: nicothyun
-instagram: nicothyun
+twitter: 0xniccomi
 github: nicothyun
 
 # Build settings
