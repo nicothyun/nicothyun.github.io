@@ -3,7 +3,7 @@ layout:     project
 category:   work
 
 title:     Shaping Bitcoin DeFi Narrative through Lore & Worldbuilding via SatLayer
-headline:   I worked directly with the CEO to craft SatLayer’s overarching narrative and positioning: framing it as the foundation of a new economy built on Bitcoin, where the best asset could finally become fully programmable. 
+headline:   I worked directly with the CEO to craft SatLayer’s overarching narrative and positioning, framing it as the foundation of a new economy built on Bitcoin, where the best asset could finally become fully programmable. 
 date:       2025-09-01
 preview: /images/btcity-satlayer.png
 ---
