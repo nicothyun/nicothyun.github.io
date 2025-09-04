@@ -47,7 +47,7 @@ This approach transformed technical integrations into epic chapters in a shared 
 <figure>
 <img src="/images/zine-satlayer.jpeg" class="imgbleed">
 <figcaption>Comics and whitepaper on a A4 zine PDF where community and users could DIY and print the zine </figcaption>
-
+</figure>
 
 ## Results
 
