@@ -1,0 +1,41 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+@import "style";
+
+/* --------------------------------
+
+Main Styles
+
+-------------------------------- */
+
+body {
+	background-color: $color-background;
+	font-family: $font-sans;
+	color: $color-main-text;
+	@extend %transition-4;
+	word-wrap: break-word;
+	margin: 0;
+	padding: $gutter;
+}
+
+ul {
+    font-family: $font-code;
+    font-weight: 200;
+		font-size: 1em;
+	    line-height: 2.1em;
+}
+
+.container {
+	max-width: $screen-lg;
+	margin: 0 auto;
+}
+
+.headerlogo {
+    max-width: 100%;
+    padding: 0.4em;
+    font-family: $font-name-c;
+    font-weight: 300;
+    margin-bottom: 0.3em;
+		display: inline-block;
+}

@@ -1,0 +1,33 @@
+# Site settings
+name: Nicole Teo
+email: nico.thyun@gmail.com
+url: "http://nicothyun.github.io" # the base hostname & protocol for your site
+description: Hi I am Nicole HY and I'm a marketer.
+title: "Nicole Teo, Marketing & Strategy"
+
+plugins:
+  - octopress-autoprefixer
+
+tags:
+  - jekyll
+  - code
+
+# Social
+twitter: nicothyun
+instagram: nicothyun
+github: nicothyun
+
+# Build settings
+markdown: kramdown
+
+
+# Serving
+port: 4000
+host: 0.0.0.0
+
+permalink: pretty
+
+sass:
+    style: :compressed
+
+exclude: [vendor]

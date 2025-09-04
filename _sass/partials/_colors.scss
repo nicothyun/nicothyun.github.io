@@ -1,0 +1,16 @@
+$color-white:				#FFF;
+$color-black:					#000000;
+
+$color-main-text:			#333;
+$color-main-text-light:		lighten($color-main-text, 20%);
+$color-main-text-dark:		darken($color-main-text, 15%);
+
+$color-primary:				#5b1ee1;
+$color-primary-light:		#ad8ef0;
+$color-primary-dark:		darken($color-primary, 20%);
+
+$color-red:					#5b1ee1;
+
+$color-link:				$color-primary;
+
+$color-background:			lighten($color-primary-light, 90%);

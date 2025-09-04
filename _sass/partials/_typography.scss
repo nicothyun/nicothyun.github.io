@@ -1,0 +1,118 @@
+html *,
+body {
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+	text-rendering: optimizeLegibility;
+	font-size: (16/16)*98%;
+	line-height: 1.75;
+}
+
+%strong {
+	font-weight: 300;
+	color: $color-primary;
+}
+
+strong {
+	@extend %strong;
+}
+
+%small {
+	font-size: 0.8rem;
+}
+
+small,
+.small {
+	@extend %small;
+}
+
+h1,{
+	font-family: $font-name-b;
+	font-size: 1.1rem;
+	@extend %strong;
+	margin-bottom: 1rem;
+	margin-top: 0;
+}
+
+
+h2,h3,h4,h5,h6 {
+	font-family: $font-name-c;
+	font-size: 1rem;
+	margin-bottom: 0.7rem;
+	margin-top: 0;
+}
+
+a {
+	&.btn {
+		&:focus,
+		&:active {
+			color: inherit;
+		}
+	}
+}
+
+p {
+	font-weight: 300;
+	font-style: normal;
+}
+
+p,
+pre {
+	margin-top: 0;
+	margin-bottom: 1.55rem;
+}
+
+code,
+pre {
+	font-family: $font-code;
+}
+
+pre {
+	overflow: scroll;
+	-webkit-overflow-scrolling: touch;
+	word-wrap: normal;
+
+	@media (min-width: $screen-md) {
+		width: calc(150% + #{$gutter/2});
+	}
+}
+
+i[class^="fa"]:after,
+span[class^="icon"]:after {
+	content: '';
+	display: inline-block;
+}
+
+.text-right {
+	text-align: right;
+}
+
+.text-left {
+	text-align: left;
+}
+
+.text-center {
+	text-align: center;
+}
+
+.text-danger,
+.text-danger a, {
+	color: $color-primary;
+}
+
+label {
+	@extend %strong;
+}
+
+figure {
+	margin: 0;
+
+	figcaption {
+		@extend %small;
+		color: $color-main-text-light;
+
+		a {
+			text-decoration: underline;
+			@extend %transition-1;
+		}
+	}
+}

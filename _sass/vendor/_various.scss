@@ -1,0 +1,83 @@
+/* --------------------------------
+
+Blockquote Twitter
+
+-------------------------------- */
+
+blockquote.twitter-tweet {
+  display: inline-block;
+  padding: 16px;
+  margin: 10px 0;
+  max-width: 468px;
+  border: #ddd 1px solid;
+  border-top-color: #eee;
+  border-bottom-color: #bbb;
+  border-radius: 5px;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.15);
+  font: bold 14px/18px Helvetica, Arial, sans-serif;
+  color: #000;
+}
+
+blockquote.twitter-tweet p {
+  font: normal 18px/24px Georgia, "Times New Roman", Palatino, serif;
+  margin: 0 5px 10px 0;
+}
+
+blockquote.twitter-tweet a[href^="https://twitter.com"] {
+  font-weight: normal;
+  color: #666;
+  font-size: 12px;
+}
+
+/* --------------------------------
+
+Disqus
+
+-------------------------------- */
+
+#disqus_thread {
+	margin-top: 10%;
+	max-width: $screen-md;
+	margin-left: auto;
+	margin-right: auto;
+	padding-top: 10%;
+	border-top: 1px solid #eee;
+}
+
+  /* --------------------------------
+
+Animated Buttons
+
+  -------------------------------- */
+
+  .btn {
+    background: none;
+    color: $color-primary;
+    border: 2px solid;
+    border-bottom-width: 4px;
+    font: inherit;
+    font-size: 0.9em;
+    letter-spacing: inherit;
+    margin: 0.3em;
+    padding: 0.2em 1.1em;
+    text-transform: inherit;
+    -webkit-transition: color 1s;
+    transition: color 1s;
+}
+
+.btn-nav {
+
+  &:hover {
+    animation: blinds 0.75s linear forwards;
+    background: linear-gradient(0deg, $color-primary 25%, transparent 25%) 0 0/0.9em 0.7em,
+    linear-gradient(0deg, $color-primary-light 50%, transparent 70%) 0 0/4em 2em;
+}
+
+@keyframes blinds {
+  100% {
+    background-position: 0 0, 0 -3em;
+    background-size: 0 0, 1em 6em;
+  }
+}
+
+}
