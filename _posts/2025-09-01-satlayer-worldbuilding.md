@@ -54,10 +54,10 @@ This approach transformed technical integrations into epic chapters in a shared 
 
 <p>Beyond TVL growth, it saw measurable community expansion and mindshare gains. 
 <br>
-SatLayer’s social media and community following grew consistently from 0 to 170K, with mindshare peaks around major ecosystem moments:
-- 1.2% during the Babylon partnership
-- 2.5% during the Sui partnership
-- 5.04% ATH at TGE, amplified by the Kaito Yapper program
+SatLayer’s social media and community following grew consistently from 0 to 170K, with mindshare peaks around major ecosystem moments:<br>
+- 1.2% during the Babylon partnership<br>
+- 2.5% during the Sui partnership<br>
+- 5.04% ATH at TGE, amplified by the Kaito Yapper program<br>
 </p>
 
 <p>
