@@ -4,7 +4,7 @@ category:   work
 
 title:     Shaping Bitcoin DeFi Narrative through Lore & Worldbuilding via SatLayer
 headline:   I worked directly with the CEO to craft SatLayer’s overarching narrative and positioning, framing it as the foundation of a new economy built on Bitcoin, where the best asset could finally become fully programmable. 
-date:       2025-09-01
+date:       2025-08-01
 preview: /images/btcity-satlayer.png
 ---
 
@@ -44,6 +44,7 @@ This approach transformed technical integrations into epic chapters in a shared 
 <figure>
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">𝙲𝙷𝙰𝙿𝚃𝙴𝚁 𝟺: 𝚃𝙷𝙴 𝙵𝚄𝙻𝙻 𝙰𝚆𝙰𝙺𝙴𝙽𝙸𝙽𝙶<br><br>The edges of BTCity remained dim, isolated and unsecured. To restore the last shadows, Professor Mecha turned to a final force: restaking.<br><br>From it emerged the Yellow Sat Cube — a primitive of programmable trust.<br><br>Bitcoin,… <a href="https://t.co/vxMZ8gdowJ">pic.twitter.com/vxMZ8gdowJ</a></p>&mdash; SatLayer 🟨🧊 (@satlayer) <a href="https://twitter.com/satlayer/status/1933132229397696630?ref_src=twsrc%5Etfw">June 12, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </figure>
+
 <figure>
 <img src="/images/zine-satlayer.jpeg" class="imgbleed">
 <figcaption>Comics and whitepaper on a A4 zine PDF where community and users could DIY and print the zine </figcaption>
@@ -51,18 +52,21 @@ This approach transformed technical integrations into epic chapters in a shared 
 
 ## Results
 
-Beyond TVL growth, it saw measurable community expansion and mindshare gains. 
-
+<p>Beyond TVL growth, it saw measurable community expansion and mindshare gains. 
+<br>
 SatLayer’s social media and community following grew consistently from 0 to 170K, with mindshare peaks around major ecosystem moments:
 - 1.2% during the Babylon partnership
 - 2.5% during the Sui partnership
 - 5.04% ATH at TGE, amplified by the Kaito Yapper program
+</p>
+
+<p>
+To sustain engagement beyond the airdrop, I spearheaded the launch of BTCity — a narrative-driven worldbuilding initiative designed to retain users, deepen cultural identity, and strengthen long-term community loyalty.</p>
 
 
-To sustain engagement beyond the airdrop, I spearheaded the launch of BTCity — a narrative-driven worldbuilding initiative designed to retain users, deepen cultural identity, and strengthen long-term community loyalty.
-
+<figure>
 <blockquote class="twitter-tweet" data-media-max-width="560"><p lang="en" dir="ltr">Beyond the veil of the ordinary, a new world emerges – built on Bitcoin.<br><br>Welcome to the New Economy: a living world-map of Bitcoin&#39;s future, where BTCity and allied realms forge tomorrow’s finance.<br><br>Your journey begins now. <a href="https://t.co/7IVIhu7I3l">pic.twitter.com/7IVIhu7I3l</a></p>&mdash; SatLayer 🟨🧊 (@satlayer) <a href="https://twitter.com/satlayer/status/1961360832069341651?ref_src=twsrc%5Etfw">August 29, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-<figcaption>Developed a fun and interactive way for users to discover our ecosystem partners on BTCity. You can explore it on ecosystem.satlayer.xyz</figcaption>
+<figcaption>Developed a fun and interactive way for users to discover our ecosystem partners on BTCity. You can explore it on ecosystem.satlayer.xyz</figcaption></figure>
 
 ## Skills Utilised
 - Product Marketing
