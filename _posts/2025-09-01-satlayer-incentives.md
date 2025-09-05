@@ -42,9 +42,9 @@ In parallel, we activated KOLs, onboarded liquidity providers, and partnered wit
 
 ## Results
 
-<p>Epoch 1: 100 BTC TVL cap filled in less than 48 hours<br>
-Epoch 2 → Airdrop: TVL scaled from 100 BTC to 3,600 BTC (~$400M) and weekly active restakers grew from 0 → 109,946 in under 11 months<br>
-<p>
+<p>- Epoch 1: 100 BTC TVL cap filled in less than 48 hours<br>
+- Epoch 2 → Airdrop: TVL scaled from 100 BTC to 3,600 BTC (~$400M) and weekly active restakers grew from 0 → 109,946 in under 11 months<br>
+</p>
 
 
 ## Skills Utilised

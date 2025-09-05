@@ -13,9 +13,9 @@ title: Projects
 			{% endif %}
 		{% endif %}
 	</header>
-	<div class="grid__col grid__col--8-of-8">
+	<div class="grid__col grid__col--6-of-8">
 		<div class="grid">
-			{% for post in site.categories.work limit: 6 %}
+			{% for post in site.categories.work limit: 9 %}
 			<div class="grid__col grid__col--1-of-3">
 				{% if post.direct_url %}
 				<a href="{{ post.direct_url }}" target="_blank"><img src="{{ post.preview }}" alt="{{ post.title }}"/><h2>{{ post.title }}</h2></a>
